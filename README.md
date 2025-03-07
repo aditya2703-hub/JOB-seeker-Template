@@ -1,6 +1,6 @@
 # LandYourJob
 
-LandYourJob is a job website built using React JS, Tailwind CSS, NodeJS, ExpressJS, MongoDB, and deployed on Netlify. The website allows users to post and view job openings from various industries and locations.
+LandYourJob is a job website built using React JS, Tailwind CSS, NodeJS and deployed on Netlify. The website allows users to post and view job openings from various industries and locations.
 
 ## Features
 
@@ -14,9 +14,6 @@ LandYourJob is a job website built using React JS, Tailwind CSS, NodeJS, Express
 - React JS
 - Tailwind CSS
 - NodeJS
-- ExpressJS
-- MongoDB
-- Vite
 
 ## Getting Started
 
